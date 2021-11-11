@@ -1,4 +1,5 @@
 - [刘文超导学](https://www.bilibili.com/video/BV1Aq4y1W7Tc)
+
 - 公考相关考试
     - 国考11-12月
     - 省考1-4月
@@ -23,3 +24,5 @@
     - 华图在线, 题库
     - 粉笔
 - 种一棵树最好的时间是十年前, 其次是现在
+
+- 讲义(https://www.aliyundrive.com/s/rikRuTfRokw)
